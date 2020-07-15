@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Kejar Jesse
+  m_EditorClassIdentifier: 
+  storyText: 'Kamu langsung menaiki mobil ferarri mu dan langsung mengejar Jesse.
+    Jesse menyetir dengan sangat cepat dan kamu pun mulai kehilangan jejak Jesse.
+    Tapi tiba-tiba kamu melihat Jesse menurunkan kecepatannya, dan berhenti di sebuah
+    pom bensin yang sudah lama terbengkalai. Dia pun segera berlari ke dalam sebuah
+    minimarket di pom bensin tersebut yang sudah sangat tua dan hancur. Kamu pun segera
+    turun dari mobil dan mengejarnya. Saat kamu masuk, Jesse pun langsung menyerang
+    dari samping pintu yang berakhir dengan pistolmu terjatuh dan harus bertarung
+    1 lawan 1 dengan Jesse yang dimana kamu berkemungkinan kalah. Apa yang kamu akan
+    lakukan?
+
+
+    1. Minta maaf kepada Jesse.
+
+    2. Bertarung mati-matian dengan Jesse.'
+  nextStates:
+  - {fileID: 11400000, guid: 3415c3fcd041dde43ba030b6c3d63f80, type: 2}
+  - {fileID: 11400000, guid: 7f0a608aae01f6342987b73da3467c6b, type: 2}

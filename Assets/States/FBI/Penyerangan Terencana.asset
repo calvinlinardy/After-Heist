@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Penyerangan Terencana
+  m_EditorClassIdentifier: 
+  storyText: 'Kalian pun akhirnya memutuskan untuk menyewa beberapa crew walaupun
+    akan menghabiskan kalian cukup banyak uang. Kalian menyewa beberapa crew antara
+    lainnya adalah seorang IT expert, pengemudi handal untuk melarikan diri, dan belasan
+    pasukan bersenjata handal. IT expert akhirnya menyadari bahwa ponsel mu telah
+    diretas oleh FBI selama ini dan selama ini telah mengetahui posisi mu. Dan akhirnya
+    kalian pun berencana untuk menjadikan ini sebagai umpan. Dan akhirnya kalian berhasil
+    mengepung markas FBI kotor tersebut. Kalian bisa memilih untuk
+
+
+    1. Memenjarakan para FBI kotor tersebut.
+
+    2. Membunuh semua nya tanpa meninggalkan jejak.'
+  nextStates:
+  - {fileID: 11400000, guid: 74da9b363c176f14cb67ca3104b80880, type: 2}
+  - {fileID: 11400000, guid: 74da9b363c176f14cb67ca3104b80880, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Kamu adalah salah satu anggota geng kriminal yang sangat handal. Kamu
+    baru saja melakukan pembobolan berlian dan emas dengan jumlah uang yang sangat
+    besar.\r\nKamu melakukannya dengan gengmu, yang beranggotakan total 3 orang, kamu,
+    Jesse, dan Rick.\r\n\r\nHubungan kamu dan Jesse sangat dekat, karena suatu saat
+    kamu jatuh miskin dan tidak punya apa-apa, Jesse mengajakmu pertama kali untuk
+    melakukan pembobolan.\r\nDan kalian sudah melakukan pembobolan beberapa kali dan
+    telah merubah hidup kamu.\r\n\r\nRick adalah teman Jesse dan sekarang juga telah
+    menjadi teman mu. Rick adalah orang yang sangat arogan, terus terang, dan agak
+    sedikit barbar.\r\nTapi Rick adalah seorang teman sejati yang tidak akan melupakan
+    temannya.\r\n\r\nKamu saat ini baru saja di kontak oleh FBI atas perbuatan mu,
+    tetapi pihak FBI yang menghubungi mu adalah Agen yang kotor dan menginginkan\r\nsedikit
+    bagian dari hasil pembobolan kamu. Kamu bisa ditangkap jika kamu mengelak, dan
+    ia juga memberikan mu sebuah misi yang kamu tidak bisa\r\ntolak. Dia menyuruh
+    mu untuk membunuh salah satu rekan mu.\r\n\r\nApa yang akan kamu lakukan?\r\n1.
+    Bunuh Jesse.\r\n2. Bunuh Rick.\r\n3. Bersekongkol dengan rekanmu untuk menghabisi
+    FBI tersebut."
+  nextStates:
+  - {fileID: 11400000, guid: d8ef7efe8d1e7cf4993c1550310e6788, type: 2}
+  - {fileID: 11400000, guid: bf336dcf32bd30a438d3accb01408f40, type: 2}
+  - {fileID: 11400000, guid: dd55a78eeaaa00b48915f161888ea7a1, type: 2}

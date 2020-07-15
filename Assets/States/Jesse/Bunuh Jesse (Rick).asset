@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Bunuh Jesse (Rick)
+  m_EditorClassIdentifier: 
+  storyText: 'Kamu pun menghubungi Rick dan menceritakan semuanya berserta rencanamu
+    untuk menghabisi Jesse. Tetapi sayangnya Rick menolak ajakanmu karena ia tidak
+    ingin menghancurkan semua ini. Kamu pun sangat tidak senang. Apa yang akan kamu
+    lakukan?
+
+
+    1. Mengancam Rick untuk membunuhnya juga.
+
+    2. Memutuskan untuk membunuh Jesse Sendiri.'
+  nextStates:
+  - {fileID: 11400000, guid: 3415c3fcd041dde43ba030b6c3d63f80, type: 2}
+  - {fileID: 11400000, guid: 4cd40b0698fa8604d873c322b10c3b51, type: 2}

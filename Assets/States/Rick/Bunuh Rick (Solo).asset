@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Bunuh Rick (Solo)
+  m_EditorClassIdentifier: 
+  storyText: 'Kamu pun memutuskan untuk membunuh Rick sendirian. Suatu saat kamu datang
+    ke Club milik Rick. Kamu pun berpesta dengan Rick dalam rangka merayakan keberhasilan
+    pembobolan berlian kalian. Dan kamu pun menaruh obat bius yang cukup banyak ke
+    dalam minuman Rick, dan akhirnya Rick pun tertidur dan tidak sadarkan diri. Kamu
+    pun membawa Rick ke mobil dan menyetir ke rumahnya. Kamu lalu membawanya ke basement
+    rumahnya dan mengikatnya di kursi. Saat Rick tersadar, dia sangat bingung dan
+    panik. Ia pun langsung memohon kamu untuk melepaskannya karena dia beralasan masih
+    harus menghidupi keluarganya dan sudah berteman lama denganmu. Apa yang akan kamu
+    lakukan?
+
+
+    1. Melepaskannya karena kamu tiba-tiba tersadar dan merasa kasihan.
+
+    2. Membunuh Rick.'
+  nextStates:
+  - {fileID: 11400000, guid: 61d7a1f165c695f4ea9af0506883a3fd, type: 2}
+  - {fileID: 11400000, guid: 5155a7996525bad4892a5285dfc8a083, type: 2}

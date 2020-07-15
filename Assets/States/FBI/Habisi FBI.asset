@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Habisi FBI
+  m_EditorClassIdentifier: 
+  storyText: 'Kamu pun memutuskan untuk menghabisi FBI bersama. Setelah kamu menghubungi
+    Jesse dan Rick, kalian pun melakukan rapat dan memikirkan strategi untuk menjatuhkan
+    dan memberikan pelajaran kepada pada FBI kotor tersebut. Tetapi waktu kalian tidak
+    banyak dan resiko untuk melakukannya cukup tinggi. Kalian pun memikirkan 2 strategi.
+    Yang pertama, strategi barbar. Dengan strategi ini, dengan skill senjata geng
+    kalian yang sangat handal, kalian hanya perlu datang ke markas mereka, dan langsung
+    masuk menghabisi mereka. Tetapi strategi ini sangat risky karena kalian harus
+    memiliki akurasi 100%. Kedua, strategi pelan dan terencana. Dengan strategi ini,
+    kalian membutuhkan anggota lebih yang artinya kalian membutuhkan dana untuk menyewa
+    orang. Tetapi tingkat keberhasilan akan lebih tinggi. Jadi?
+
+
+    1. Strategi Barbar.
+
+    2. Strategi Terencana. '
+  nextStates:
+  - {fileID: 11400000, guid: 4d995322e1b230442a84ceb2928b7fc3, type: 2}
+  - {fileID: 11400000, guid: 239533197e13e634c90503fa07c71b8d, type: 2}

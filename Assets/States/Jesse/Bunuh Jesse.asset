@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Bunuh Jesse
+  m_EditorClassIdentifier: 
+  storyText: 'Kamu telah memilih untuk membunuh Jesse. Jesse adalah teman baik mu
+    yang pada saat kamu sedang jatuh miskin, dia membantu mu dengan menawarkan bekerja
+    sama dengannya dalam perampokan sebuah bank. Dan dia juga adalah seniormu, dan
+    satu. Dia sangatlah kuat. Apa yang akan kamu lakukan?
+
+
+    1. Membunuh Jesse sendiri.
+
+    2. Menghubungi Rick untuk membantu mu menyerang Jesse. '
+  nextStates:
+  - {fileID: 11400000, guid: 4cd40b0698fa8604d873c322b10c3b51, type: 2}
+  - {fileID: 11400000, guid: 3f378d6a42372434a809e545d4a98d5f, type: 2}

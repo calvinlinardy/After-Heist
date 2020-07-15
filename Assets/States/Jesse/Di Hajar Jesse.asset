@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Di Hajar Jesse
+  m_EditorClassIdentifier: 
+  storyText: 'Kamu pun berusaha untuk mengalahkan Jesse, tapi sayang nya Jesse terlalu
+    kuat. Kamu pun terjatuh beberapa kali, dan tetap bangun untuk menjatuhkan pukulan
+    di wajah Jesse. Pertarungan pun berlangsung beberapa menit, kalian berdua pun
+    luka parah dan penuh dengan darah. Dan akhirnya Jesse melihat pistol yang kamu
+    jatuhkan. Ia pun berlari untuk mengambilnya. Pistol pun sudah di tangannya.....
+    dan tanpa banyak basa-basi. Ia pun menembakmu.
+
+
+    1. Lanjut.'
+  nextStates:
+  - {fileID: 11400000, guid: 193e80b255457a848abef573e36d77cd, type: 2}

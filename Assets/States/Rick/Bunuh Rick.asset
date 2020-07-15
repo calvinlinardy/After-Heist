@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Bunuh Rick
+  m_EditorClassIdentifier: 
+  storyText: 'Kamu telah memilih untuk membunuh Rick. Rick telah menemani mu beberapa
+    kali dalam bertransaksi narkoba di sebuah perumahan dekat Mall. Dan suatu kali
+    kamu telat di tangkap oleh geng seberang, dan Rick pun tidak kabur sendiri, dia
+    kembali untuk menyelamatkan mu dan akhirnya kalian berhasil kabur bersama. Ia
+    juga adalah senior karena dia telah melakukan banyak kriminal bersama Jesse sebelum
+    Jesse mengajakmu untuk bergabung. Jadi apa rencana mu?
+
+
+    1. Membunuh Rick sendirian.
+
+    2. Menghubungi Jesse untuk bekerja sama membunuh Rick.'
+  nextStates:
+  - {fileID: 11400000, guid: d821b3299c2472b4b99059eb4c5bf216, type: 2}
+  - {fileID: 11400000, guid: 53d277386505cbb4fb0e83db9e6c288a, type: 2}

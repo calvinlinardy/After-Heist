@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Bunuh Rick (Jesse)
+  m_EditorClassIdentifier: 
+  storyText: "Setelah kamu menghubungi Jesse, ternyata Jesse pun setuju untuk bersekongkol
+    denganmu. Akhirnya pada sebuah malam, kamu dan Jesse mengajak Rick untuk datang
+    ke rumah Jesse dan merayakan keberhasilan pembobolan berlian yang kalian lakukan
+    bersama. Lalu saat Rick sampai, tanpa banyak basa-basi Jesse langsung menembakan
+    peluru ke kepala Rick. Dan kalian membawa mayatnya ke pantai dan membuangnya ke
+    laut. \n\n1. Lanjut"
+  nextStates:
+  - {fileID: 11400000, guid: 5155a7996525bad4892a5285dfc8a083, type: 2}

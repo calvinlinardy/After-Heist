@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7cd194932e7b440823ebf6ebc5df1e, type: 3}
+  m_Name: Main Menu
+  m_EditorClassIdentifier: 
+  storyText: 'Hi guys! Selamat datang di Game Ur Faith in Ur Finger!
+
+
+    Cara mainnya gampang banget! Kalian tinggal ikutin aja alur ceritanya dan buat
+    keputusan! Nanti kalian tinggal pencet tombol 1, 2, atau 3 sesuai dengan keputusan
+    kalian.
+
+
+    Kalau kalian ingin keluar dari game, kapanpun juga kalian bisa tekan ''Q''.
+
+
+    Tekan 1 untuk mulai!
+
+
+    1. Mulai'
+  nextStates:
+  - {fileID: 11400000, guid: 1a0f2c2c6b719b74a8c38f554caa8f30, type: 2}
